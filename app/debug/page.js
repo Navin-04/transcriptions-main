@@ -127,12 +127,12 @@ export default function DebugPage() {
             <div className="space-y-3 text-sm">
               <div>
                 <strong>1. Missing API Key:</strong>
-                <p>Make sure you have created a `.env.local` file with:</p>
+                <p>Make sure you have created a <code>&#96;.env.local&#96;</code> file with:</p>
                 <code className="bg-gray-200 px-2 py-1 rounded">HUGGINGFACE_API_KEY=hf_your_token_here</code>
               </div>
               <div>
                 <strong>2. Invalid API Key:</strong>
-                <p>Your API key should start with "hf_" and be from <a href="https://huggingface.co/settings/tokens" target="_blank" className="text-blue-600 underline">Hugging Face</a></p>
+                <p>Your API key should start with &quot;hf_&quot; and be from <a href="https://huggingface.co/settings/tokens" target="_blank" className="text-blue-600 underline">Hugging Face</a></p>
               </div>
               <div>
                 <strong>3. API Quota Exceeded:</strong>

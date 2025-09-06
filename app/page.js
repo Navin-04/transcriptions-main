@@ -60,7 +60,7 @@ export default async function Home() {
               </svg>
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-2">Lightning Fast</h3>
-            <p className="text-gray-600">Process audio files up to 25MB in seconds with OpenAI's powerful Whisper model.</p>
+            <p className="text-gray-600">Process audio files up to 25MB in seconds with OpenAI&apos;s powerful Whisper model.</p>
           </div>
 
           <div className="bg-white p-6 rounded-xl shadow-lg">

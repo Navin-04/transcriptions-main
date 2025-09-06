@@ -634,7 +634,7 @@ technology. All processing was done locally on your device for maximum privacy.`
           ⚠️ Browser Not Supported
         </h3>
         <p className="text-yellow-700 mb-4">
-          Your browser doesn't support the Web Speech API. Please use Chrome, Edge, or Safari for the best experience.
+          Your browser doesn&apos;t support the Web Speech API. Please use Chrome, Edge, or Safari for the best experience.
         </p>
         <div className="text-sm text-yellow-600">
           <p><strong>Supported browsers:</strong></p>

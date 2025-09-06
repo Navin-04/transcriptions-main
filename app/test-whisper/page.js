@@ -97,7 +97,7 @@ export default function TestWhisperPage() {
               <div className="mt-6 p-4 bg-yellow-50 rounded-lg">
                 <h4 className="font-medium text-yellow-900 mb-2">⚠️ Important Notes:</h4>
                 <ul className="text-sm text-yellow-800 space-y-1">
-                  <li>• API key must start with "hf_"</li>
+                  <li>• API key must start with &quot;hf_&quot;</li>
                   <li>• Inference providers must be enabled</li>
                   <li>• Check your API quota and billing</li>
                   <li>• WAV format works best for testing</li>
@@ -242,7 +242,7 @@ export default function TestWhisperPage() {
                   Ready to Test Whisper?
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  Click the "Test Whisper Model" button to run comprehensive tests on your OpenAI Whisper integration through Hugging Face.
+                  Click the &quot;Test Whisper Model&quot; button to run comprehensive tests on your OpenAI Whisper integration through Hugging Face.
                 </p>
                 <div className="bg-blue-50 p-4 rounded-lg">
                   <h4 className="font-medium text-blue-900 mb-2">What This Test Checks:</h4>
