@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1757082583906",
+      "name": "Revanth G",
+      "email": "revanthrevanthcr7@gmail.com",
+      "password": "$2b$10$VPEvciy84IU9v1w13ABPzuu4cIru/mzR4HssrNPUVcTiqVmTBa5e."
+    },
+    {
+      "id": "1757083027406",
+      "name": "Revanth Ganesan",
+      "email": "22cs080@drngpit.in.ac",
+      "password": "$2b$10$lVLFjNg0snxQea6UpDARBuDt38vVhWxBJpCYi38p66NFUHvRkYXMe"
+    },
+    {
+      "id": "1757158003496",
+      "name": "Navin",
+      "email": "navin.workspace@gmail.com",
+      "password": "$2b$10$43uepN7c9IZBaJpFvh7wK.Y5vX5E5ZbAUCYpHM9d7BwAoC/G./LT6"
+    }
+  ]
+}
